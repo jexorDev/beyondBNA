@@ -1,0 +1,206 @@
+[
+    {
+      "Name": "Aloft Nashville Airport",
+      "Address": "608 McGavock Pk",
+      "Phone": "629-253-6060",
+      "Stars": 3,
+      "ShuttleHours": "0400-0000"
+    },
+    {
+      "Name": "Avid Hotel",
+      "Address": "40 Rachel Dr",
+      "Phone": "615-645-1925",
+      "Stars": 2,
+      "ShuttleHours": "0400-0000"
+    },
+    {
+      "Name": "Best Western Plus",
+      "Address": "911 Airport Center",
+      "Phone": "615-872-0109",
+      "Stars": 3,
+      "ShuttleHours": "0400-2300"
+    },
+    {
+      "Name": "Cambria Hotel Nashville Airport",
+      "Address": "44 Rachel Dr",
+      "Phone": "615-872-0109",
+      "Stars": 4,
+      "ShuttleHours": "0400-0000"
+    },
+    {
+      "Name": "Comfort Suites Airport",
+      "Address": "2521 Elm Hill Pk",
+      "Phone": "615-391-3919",
+      "Stars": 2,
+      "ShuttleHours": "0430-2300"
+    },
+    {
+      "Name": "Country Inn & Suites By Radisson",
+      "Address": "590 Donelson Pk",
+      "Phone": "615-874-8040",
+      "Stars": 3,
+      "ShuttleHours": "0600-2300"
+    },
+    {
+      "Name": "Courtyard by Marriott Nashville",
+      "Address": "2508 Elm Hill Pk",
+      "Phone": "615-883-9500",
+      "Stars": 3,
+      "ShuttleHours": "0455-2345"
+    },
+    {
+      "Name": "DoubleTree Suites by Hilton",
+      "Address": "2424 Atrium Way",
+      "Phone": "615-889-8889",
+      "Stars": 0,
+      "ShuttleHours": "0500-2200"
+    },
+    {
+      "Name": "Drury Inn & Suites",
+      "Address": "555 Donelson Pk",
+      "Phone": "615-902-0400",
+      "Stars": 3,
+      "ShuttleHours": "0330-0130"
+    },
+    {
+      "Name": "Element Nashville Airport",
+      "Address": "2825 Elm Hill Pk",
+      "Phone": "615-894-9791",
+      "Stars": 3,
+      "ShuttleHours": "0500-0000"
+    },
+    {
+      "Name": "Embassy Suites by Hilton",
+      "Address": "10 Century Blvd",
+      "Phone": "615-871-0033",
+      "Stars": 3,
+      "ShuttleHours": "0000-0000"
+    },
+    {
+      "Name": "Fairfield Marriott Inn & Suites",
+      "Address": "511 Royal Pkwy",
+      "Phone": "615-930-3730",
+      "Stars": 2,
+      "ShuttleHours": "0400-1100|1600-2300"
+    },
+    {
+      "Name": "Four Points by Sheraton Nashville",
+      "Address": "800 Royal Pkwy",
+      "Phone": "615-884-9777",
+      "Stars": 3,
+      "ShuttleHours": "0400-1100|1600-2300"
+    },
+    {
+      "Name": "Hampton Inn & Suites Nashville",
+      "Address": "583 Donelson Pk",
+      "Phone": "615-885-4242",
+      "Stars": 3,
+      "ShuttleHours": "0400-0000"
+    },
+    {
+      "Name": "Hilton Nashville Airport",
+      "Address": "2200 Elm Hill Pk",
+      "Phone": "615-883-9770",
+      "Stars": 3,
+      "ShuttleHours": "0400-0000"
+    },
+    {
+      "Name": "Holiday Inn Express",
+      "Address": "1111 Airport Center",
+      "Phone": "615-833-1366",
+      "Stars": 3,
+      "ShuttleHours": "0000-0000"
+    },
+    {
+      "Name": "Home2Suites by Hilton",
+      "Address": "832 Royal Pkwy",
+      "Phone": "615-874-2280",
+      "Stars": 3,
+      "ShuttleHours": "0700-2300"
+    },
+    {
+      "Name": "Homewood Suites by Hilton",
+      "Address": "832 Royal Pkwy",
+      "Phone": "615-874-2280",
+      "Stars": 3,
+      "ShuttleHours": "0700-2300"
+    },
+    {
+      "Name": "Hotel Preston",
+      "Address": "733 Briley Pkwy",
+      "Phone": "615-361-5900",
+      "Stars": 3,
+      "ShuttleHours": "0700-1900"
+    },
+    {
+      "Name": "Hyatt House Nashville Airport",
+      "Address": "14 Century Blvd",
+      "Phone": "615-871-9500",
+      "Stars": 3,
+      "ShuttleHours": "0000-0000"
+    },
+    {
+      "Name": "Hyatt Place Nashville Airport",
+      "Address": "721 Royal Pkwy",
+      "Phone": "615-493-5200",
+      "Stars": 0,
+      "ShuttleHours": "0400-2300"
+    },
+    {
+      "Name": "LaQuinta Inn & Suites",
+      "Address": "531 Donelson Pk",
+      "Phone": "615-928-2809",
+      "Stars": 3,
+      "ShuttleHours": "0430-2230"
+    },
+    {
+      "Name": "Quality Suites Nashville Airport",
+      "Address": "2615 Elm Hill Pk",
+      "Phone": "629-276-0103",
+      "Stars": 2,
+      "ShuttleHours": "0400-2300"
+    },
+    {
+      "Name": "Radisson Hotel Nashville Airport",
+      "Address": "1112 Airport Center",
+      "Phone": "615-889-9090",
+      "Stars": 3,
+      "ShuttleHours": "0000-0000"
+    },
+    {
+      "Name": "Red Roof Plus Inn",
+      "Address": "510 Claridge Dr",
+      "Phone": "615-671-2721",
+      "Stars": 2,
+      "ShuttleHours": "0600-2200"
+    },
+    {
+      "Name": "Residence Inn",
+      "Address": "2300 Elm Hill Pk",
+      "Phone": "615-889-8600",
+      "Stars": 3,
+      "ShuttleHours": "0455-2345"
+    },
+    {
+      "Name": "Sheraton Music City",
+      "Address": "777 McGavock Pk",
+      "Phone": "615-885-2200",
+      "Stars": 4,
+      "ShuttleHours": "0400-0000"
+    },
+    {
+      "Name": "Sonesta Nashville Airport",
+      "Address": "600 Marriott",
+      "Phone": "615-889-9300",
+      "Stars": 4,
+      "ShuttleHours": "0430-0000"
+    },
+    {
+      "Name": "Sonesta Select",
+      "Address": "1100 Airport Center",
+      "Phone": "615-884-6111",
+      "Stars": 3,
+      "ShuttleHours": "0515-2345"
+    }
+  ]
+  
