@@ -1,7 +1,6 @@
 <script setup lang="ts">
 import {onMounted} from "vue";
 import HotelCard from './components/HotelCard.vue'
-import HotelModel from "./models/HotelModel";
 import hotels from "./data/hotels.json";
 
 onMounted(() => {
