@@ -31,7 +31,7 @@ const selectedTransportType = ref<number>(0);
   :length="5"
   :size="20"
   :model-value="props.stars"
-  active-color="orange"
+  active-color="warning"
   class="mt-2"
  />
     <div class="font-italic">{{props.stars}} Star Hotel</div>
@@ -41,7 +41,7 @@ const selectedTransportType = ref<number>(0);
     <v-card-text>
         <div class="text-overline">Transportation</div>
         <v-chip-group mandatory v-model="selectedTransportType">            
-            <v-chip color="blue" size="small">Complimentary Shuttle</v-chip>
+            <v-chip color="primary" size="small">Complimentary Shuttle</v-chip>
             <v-chip color="orange" size="small">Taxi</v-chip>
             <v-chip color="black" size="small">Uber</v-chip>
             <v-chip color="pink" size="small">Lyft</v-chip>
