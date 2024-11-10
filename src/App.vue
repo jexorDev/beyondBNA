@@ -12,11 +12,11 @@ onMounted(() => {
 </script>
 
 <template>
-<v-layout :fluid="true">
+<v-layout>
   <v-main>
-    <v-row>
-      <v-col v-for="hotel of hotels">
-        <HotelCard :name="hotel.Name" :address="hotel.Address" :phone="hotel.Phone" :stars="hotel.Stars" :shuttleHours="hotel.ShuttleHours" shuttleFrequency="On Demand (must call)" />
+    <v-row v-for="hotel of hotels">
+      <v-col>
+        <HotelCard :name="hotel.Name" :address="hotel.Address" :phone="hotel.Phone" :stars="hotel.Stars" :shuttleHours="hotel.ShuttleHours" :shuttleFrequency="hotel.ShuttleFrequency" :busStop="hotel.BusStop" :busStopDistance="hotel.BusStopDistance" :busStopTime="hotel.BusStopTime" />
       </v-col>
     </v-row>
     </v-main>
